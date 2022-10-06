@@ -60,7 +60,7 @@
     "react": "~16.9.0",
     "react-native": "~0.61.5",
     "react-native-builder-bob": "^0.18.1",
-    "react-native-gesture-handler": "^1.10.3",
+    "react-native-gesture-handler": "^2.5.0",
     "react-native-reanimated": "^1.13.3",
     "react-native-svg": "^12.1.1",
     "release-it": "^14.9.0",
